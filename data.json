@@ -1,0 +1,44 @@
+{
+  "basics":{
+    "photo":"hello.jpg",
+    "name":"Madireddy chandu",
+    "phoneno":"9949995718",
+    "email":"chanduchinnubujji@gmail.com",
+    "address":"(s/o)ramu,AmeenaPet,Eluru,AP"
+  },
+
+"education":[
+    {
+ "course":"B.tech(computer science and engineering )",
+ "institute":"CR REDDY ENGINEERING COLLEGE",
+ "data":["2015-2019","90%"]
+    },
+
+{
+  "course":"INTER(MPC)",
+  "institute":"srichaitanya college",
+  "data":["2013-2015","95%"]
+},
+{
+  "course":"SSC",
+  "institute":"sree sree high school",
+  "data":["2006-2012"]
+
+}
+],
+"skills":[
+  {
+    "name":"languages",
+"data":["c","JAVA","php"]
+},
+{
+  "name":"WEB technologies",
+  "data":["HTML","CSS","php"]
+
+},
+  {
+    "name":"OS",
+    "data":["WINDOWS","LINUX","UNIX"]
+  }
+]
+}
